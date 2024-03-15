@@ -1,0 +1,10 @@
+img {
+    background-color: #F2E8E1;
+    padding: 2%;
+
+    border-radius: 30px;
+    margin: 30px;
+    margin-bottom: 0;
+
+    transition: transform 0.3s ease;
+}
